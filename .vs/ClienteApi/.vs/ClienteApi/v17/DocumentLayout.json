@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fred_\\OneDrive\\\u00C1rea de Trabalho\\XP\\.vs\\ClienteApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F13F6A4-97B0-49C8-9025-D354EAA38284}|ClienteApi.Tests\\ClienteApi.Tests.csproj|c:\\users\\fred_\\onedrive\\\u00E1rea de trabalho\\xp\\.vs\\clienteapi\\clienteapi.tests\\clienterepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F13F6A4-97B0-49C8-9025-D354EAA38284}|ClienteApi.Tests\\ClienteApi.Tests.csproj|solutionrelative:clienteapi.tests\\clienterepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBE9121-BBBD-429E-9BF5-A9FB37125AA1}|ClienteApi\\ClienteApi.csproj|c:\\users\\fred_\\onedrive\\\u00E1rea de trabalho\\xp\\.vs\\clienteapi\\clienteapi\\models\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBE9121-BBBD-429E-9BF5-A9FB37125AA1}|ClienteApi\\ClienteApi.csproj|solutionrelative:clienteapi\\models\\clientevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\fred_\\OneDrive\\\u00C1rea de Trabalho\\XP\\.vs\\ClienteApi\\ClienteApi.Tests\\ClienteRepositoryTests.cs",
+              "RelativeDocumentMoniker": "ClienteApi.Tests\\ClienteRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\fred_\\OneDrive\\\u00C1rea de Trabalho\\XP\\.vs\\ClienteApi\\ClienteApi.Tests\\ClienteRepositoryTests.cs",
+              "RelativeToolTip": "ClienteApi.Tests\\ClienteRepositoryTests.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAywIsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:50:51.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\fred_\\OneDrive\\\u00C1rea de Trabalho\\XP\\.vs\\ClienteApi\\ClienteApi\\Models\\ClienteValidator.cs",
+              "RelativeDocumentMoniker": "ClienteApi\\Models\\ClienteValidator.cs",
+              "ToolTip": "C:\\Users\\fred_\\OneDrive\\\u00C1rea de Trabalho\\XP\\.vs\\ClienteApi\\ClienteApi\\Models\\ClienteValidator.cs",
+              "RelativeToolTip": "ClienteApi\\Models\\ClienteValidator.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:50:30.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
